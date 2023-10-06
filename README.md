@@ -74,5 +74,3 @@ You can customize the web form and styling by modifying the `index.html` and `cs
 - requests: Library for making HTTP requests.
 
 Feel free to explore and modify this project to fit your requirements. Happy coding!
-
-```

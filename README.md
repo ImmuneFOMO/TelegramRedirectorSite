@@ -21,7 +21,7 @@ To use this project, follow these steps:
 3. Install the required dependencies:
 
    ```shell
-   pip install Flask Flask-SQLAlchemy requests
+   pip install Flask Flask-SQLAlchemy
    ```
 
 4. Open the `main.py` file in a text editor:
